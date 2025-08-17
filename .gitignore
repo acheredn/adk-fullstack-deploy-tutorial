@@ -241,3 +241,6 @@ Thumbs.db
 
 # Other
 web/
+
+# Documentation files
+NEXTJS_VERCEL_DEPLOYMENT_GUIDE.md

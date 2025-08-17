@@ -35,8 +35,8 @@
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.3.0",
     "@types/jest": "^30.0.0",
-    "@types/node": "^24",
-    "@types/react": "^19",
+    "@types/node": "24.3.0",
+    "@types/react": "19.1.10",
     "@types/react-dom": "^19",
     "@types/uuid": "^10.0.0",
     "autoprefixer": "^10.4.21",
@@ -48,6 +48,6 @@
     "tailwindcss": "^3.4.17",
     "tailwindcss-animate": "^1.0.7",
     "ts-jest": "^29.4.0",
-    "typescript": "^5"
+    "typescript": "5.9.2"
   }
 }
